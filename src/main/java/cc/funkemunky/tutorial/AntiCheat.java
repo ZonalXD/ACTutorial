@@ -1,10 +1,10 @@
-package cc.funkemunky.tutorial;
+package cc.zonal-anticheat;
 
-import cc.funkemunky.tutorial.checks.CheckManager;
-import cc.funkemunky.tutorial.data.DataManager;
-import cc.funkemunky.tutorial.events.JoinQuitEvents;
-import cc.funkemunky.tutorial.events.MoveEvents;
-import cc.funkemunky.tutorial.utilities.ReflectionUtils;
+import cc.Zonal-anticheat.checks.CheckManager;
+import cc.Zonal-anticheat.data.DataManager;
+import cc.Zonal-anticheat.events.JoinQuitEvents;
+import cc.Zonal-anticheat.events.MoveEvents;
+import cc.Zonal-anticheat.utilities.ReflectionUtils;
 import org.bukkit.Bukkit;
 import org.bukkit.plugin.java.JavaPlugin;
 
